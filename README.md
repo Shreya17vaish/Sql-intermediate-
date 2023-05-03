@@ -1,1 +1,1 @@
-# Sql-intermediate-
+Hackerrank SQL (Intermediate) Skills Certification Test Solution
